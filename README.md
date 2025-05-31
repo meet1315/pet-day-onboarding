@@ -90,8 +90,7 @@ To stay organized while coding, I’ll:
 ---
 
 ## Submission Checklist
-
-- [x] This document written in human-friendly markdown
+- [x] Assignment clearly documented in markdown format
 - [x] GitHub repo created with placeholder folders/files
 - [ ] Link submitted to eConestoga
 - [ ] (Optional) Video explanation uploaded
