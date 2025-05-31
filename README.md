@@ -65,7 +65,7 @@ Depending on the answers I get, I might need to ask more questions like:
 
 ---
 
-## First Tasks (Simple Names Only)
+## First Tasks 
 
 - Create GitHub repo
 - Write out the current onboarding process (if any)
